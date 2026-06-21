@@ -27,7 +27,7 @@ The analysis was built entirely in **Power BI** using the UCI Bank Marketing dat
 ├── dashboard/
 │   └── Task_3.pbix                    # Power BI dashboard file
 ├── report/
-│   └── Bank_Marketing_Analysis.docx   # Full written analysis report
+│   └── Bank_Marketing_Analysis.pdf   # Full written analysis report
 └── README.md
 ```
 
