@@ -20,7 +20,6 @@ The analysis was built entirely in **Power BI** using the UCI Bank Marketing dat
 ```
 ├── dataset/
 │   ├── bank-full.csv                  # Full dataset (45,211 records)
-│   ├── bank.csv                       # 10% sample dataset (4,521 records)
 │   ├── bank-additional-full.csv       # Extended dataset with social/economic features
 │   ├── bank-additional.csv            # 10% sample of extended dataset
 │   ├── bank-names.txt                 # Attribute descriptions (original dataset)
